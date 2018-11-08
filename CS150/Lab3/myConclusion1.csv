@@ -1,0 +1,11 @@
+, , timeAddToFront, timeAddToBack, timeAddSorted, timeSortofUnsortedList, timeSortofSortedList,timeLinearSearch, timeBinarySearch
+500,Array,0,0,0,6.4,0,0,0
+500,Array,0,0,378,1061.6,4,0,3.2
+1000,Array,0,0,6.2,17,0,0,0
+1000,Array,0,0,3815.8,10438.8,30.4,6,15
+1500,Array,0.6,0,26,71.8,0,0,0
+1500,Array,0.2,0,17170.6,35253.8,41.2,13.8,14.2
+2000,Array,0.8,0.2,26.6,68.4,0,0.2,0
+2000,Array,0,0.2,42270.4,82568.4,105,25,22.4
+2500,Array,3,0,40.6,104.2,0,0,0
+2500,Array,0,0,95560.6,156749.4,166.2,39.6,39.8

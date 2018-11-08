@@ -1,0 +1,11 @@
+, ,  timeMergeSort,  timeQuickSort
+10000,Worker,9.8,16.8
+10000,Contact,9.6,9.6
+20000,Worker,6.2,21.2
+20000,Contact,13.4,34.2
+30000,Worker,10.4,30.4
+30000,Contact,26.4,67.0
+40000,Worker,17.4,42.4
+40000,Contact,38.6,75.2
+50000,Worker,21.0,48.2
+50000,Contact,44.2,95.2

@@ -1,0 +1,4 @@
+Laptop Surface 1299 MacBook 1599 Dell 999
+Textbook UnderstandingAnalysis 18.67 LinearAlgebra 14.79 DataStructuresAndAlgorithmsWihJava 45.67
+Restaurant TouchOfThai 15 PlumHouse 13
+Dress HM 19.99 Uniqlo 14.99 Zara 29.99 Madewell 39.99

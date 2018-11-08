@@ -1,0 +1,11 @@
+, , timeAddToFront, timeAddToBack,  timeBinarySearch
+10000,Array,17.0,0.0,0.0
+10000,Linked,3.0,0.0,0.0
+20000,Array,53.0,1.0,0.0
+20000,Linked,0.0,3.0,0.0
+30000,Array,112.8,0.0,0.0
+30000,Linked,0.2,6.2,3.0
+40000,Array,191.2,3.0,0.0
+40000,Linked,4.0,9.8,7.0
+50000,Array,295.4,3.2,0.0
+50000,Linked,6.2,3.0,6.2
